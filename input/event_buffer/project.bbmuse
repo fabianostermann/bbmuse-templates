@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "Event Buffering"
+description = "None yet."
+

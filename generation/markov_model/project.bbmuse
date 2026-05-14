@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "An n-order Markov model"
+description = "None yet."
+

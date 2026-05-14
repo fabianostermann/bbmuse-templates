@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "Worker Thread"
+description = ""
+

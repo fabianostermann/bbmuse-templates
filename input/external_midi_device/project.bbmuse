@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "External Midi In Devices"
+description = "None yet."
+

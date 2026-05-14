@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "Random Note and Drum Events"
+description = "None yet."
+

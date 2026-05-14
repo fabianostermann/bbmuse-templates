@@ -1,0 +1,7 @@
+# bbmuse configuration file.
+# TOML Syntax
+
+[application]
+name = "Repeat notes with a probability"
+description = "None yet."
+
